@@ -16,108 +16,108 @@ cervenkadam@gmail.com<br>
 
 ## Education
 
-<small>2024 to 2026</small><br>
-**Czech Technical University in Prague**<div style="padding-left: 32px; margin-bottom: 10px;">
-Faculty of Nuclear Sciences and Physical Engineering<br>
-MSc. in Nuclear and Particle Physics</div>
+<small>2024 to 2026</small>
+**Czech Technical University in Prague**
+> Faculty of Nuclear Sciences and Physical Engineering<br>
+> MSc. in Nuclear and Particle Physics
 
-<small>2020 to 2024</small><br>
-**Czech Technical University in Prague**<div style="padding-left: 32px; margin-bottom: 10px;">
-Faculty of Nuclear Sciences and Physical Engineering<br>
-BSc. in Nuclear and Particle Physics</div>
+<small>2020 to 2024</small>
+**Czech Technical University in Prague**
+> Faculty of Nuclear Sciences and Physical Engineering<br>
+> BSc. in Nuclear and Particle Physics
 
-<small>2016 to 2020</small><br>
-**Masaryk's gymnázium high school in Příbor**<div style="padding-left: 32px; margin-bottom: 10px;">
-Perfect grade in the Final Examination in Advanced Mathematics, Physics, Chemistry</div>
+<small>2016 to 2020</small>
+**Masaryk's gymnázium high school in Příbor**
+> Perfect grade in the Final Examination in Advanced Mathematics, Physics, Chemistry
 
 ---
 
 ## Research Projects and Theses
 
-**Key Focus**<div style="padding-left: 32px; margin-bottom: 10px;">
-Simulations, statistics, dark matter, and data analysis</div>
+**Key Focus**
+> Simulations, statistics, dark matter, and data analysis
 
-<small>since 2025</small><br>
-**Master's Thesis**<div style="padding-left: 32px; margin-bottom: 10px;">
-The influence of gravitational slingshot on the velocity distribution of dark matter<br>
-Continuation of bachelor's thesis</div>
+<small>since 2025</small>
+**Master's Thesis**
+> The influence of gravitational slingshot on the velocity distribution of dark matter<br>
+> Continuation of bachelor's thesis
 
-<small>2023 to 2024</small><br>
-**Bachelor's Thesis**<div style="padding-left: 32px; margin-bottom: 10px;">
-Influence of high-speed component of dark matter on the sensitivity of sub-eV detectors<br>
-Awarded by the best grade<br>
-Available at http://hdl.handle.net/10467/116897</div>
+<small>2023 to 2024</small>
+**Bachelor's Thesis**
+> Influence of high-speed component of dark matter on the sensitivity of sub-eV detectors<br>
+> Awarded by the best grade<br>
+> Available at http://hdl.handle.net/10467/116897
 
-<small>2016 to 2020</small><br>
-**Students' Professional Activities**<div style="padding-left: 32px; margin-bottom: 10px;">
-Chemical processes initiated by glow discharge in the Titan-like atmosphere<br>
-Acquired 10th place in the national round<br>
-Available at https://github.com/SerGor000/SOC-SPA</div>
+<small>2016 to 2020</small>
+**Students' Professional Activities**
+> Chemical processes initiated by glow discharge in the Titan-like atmosphere<br>
+> Acquired 10th place in the national round<br>
+> Available at https://github.com/SerGor000/SOC-SPA
 
 ---
 
 ## Job Experience
 
-<small>since 2025</small><br>
-**Chief Lab Assistant at Physics Laboratory 1**<div style="padding-left: 32px; margin-bottom: 10px;">
-Supervising bachelor's students in lab experiments<br>
-Overseeing other assistants</div>
+<small>since 2025</small>
+**Chief Lab Assistant at Physics Laboratory 1**
+> Supervising bachelor's students in lab experiments<br>
+> Overseeing other assistants
 
-<small>2023 to 2025</small><br>
-**Lab Assistant at Physics Laboratory 2 to 5**<div style="padding-left: 32px; margin-bottom: 10px;">
-Supervising bachelor's and master's students<br>
-Continuous technical support for experiments</div>
+<small>2023 to 2025</small>
+**Lab Assistant at Physics Laboratory 2 to 5**
+> Supervising bachelor's and master's students<br>
+> Continuous technical support for experiments
 
-<small>since 2018</small><br>
-**Tutoring**<div style="padding-left: 32px; margin-bottom: 10px;">
-Over 30 students from middle school to university level<br>
-Chemistry, physics, mathematics</div>
+<small>since 2018</small>
+**Tutoring**
+> Over 30 students from middle school to university level<br>
+> Chemistry, physics, mathematics
 
 ---
 
 ## Academic Engagement and Training
 
-<small>March 2026</small><br>
-**Technical University Exchange ATHENS at NTNU**<div style="padding-left: 32px; margin-bottom: 10px;">
-Course Sustainable Hydropower Development</div>
+<small>March 2026</small>
+**Technical University Exchange ATHENS at NTNU**
+> Course Sustainable Hydropower Development
 
-<small>September 2025</small><br>
-**Workshop on Diffraction and Ultraperipheral Collisions, Děčín**<div style="padding-left: 32px; margin-bottom: 10px;">
-20-minute talk on progress of Master's thesis</div>
+<small>September 2025</small>
+**Workshop on Diffraction and Ultraperipheral Collisions, Děčín**
+> 20-minute talk on progress of Master's thesis
 
-<small>July 2025</small><br>
-**42nd International Conference on High Energy Physics, Prague**<div style="padding-left: 32px; margin-bottom: 10px;">
-Participant and technical support on parallel sessions</div>
+<small>July 2025</small>
+**42nd International Conference on High Energy Physics, Prague**
+> Participant and technical support on parallel sessions
 
-<small>March 2025</small><br>
-**Technical University Exchange ATHENS at Mines Paris PSL**<div style="padding-left: 32px; margin-bottom: 10px;">
-Course Nuclear Fusion for Energy Production</div>
+<small>March 2025</small>
+**Technical University Exchange ATHENS at Mines Paris PSL**
+> Course Nuclear Fusion for Energy Production
 
-<small>September 2024</small><br>
-**Quantum Sensing School at the University of Padua**<div style="padding-left: 32px; margin-bottom: 10px;">
-Intensive training in quantum technologies and hands-on session on cooling systems</div>
+<small>September 2024</small>
+**Quantum Sensing School at the University of Padua**
+> Intensive training in quantum technologies and hands-on session on cooling systems
 
-<small>July 2024</small><br>
-**Workshop on Diffraction and Ultraperipheral Collisions, Děčín**<div style="padding-left: 32px; margin-bottom: 10px;">
-20-minute talk on results of bachelor's thesis</div>
+<small>July 2024</small>
+**Workshop on Diffraction and Ultraperipheral Collisions, Děčín**
+> 20-minute talk on results of bachelor's thesis
 
-<small>July 2024</small><br>
-**Hands-on CERN workshop at FNSPE CTU**<div style="padding-left: 32px; margin-bottom: 10px;">
-ATLAS master class in HYPATIA on data analysis<br>
-Selected among 12 students out of 60 to visit CERN in person</div>
+<small>July 2024</small>
+**Hands-on CERN workshop at FNSPE CTU**
+> ATLAS master class in HYPATIA on data analysis<br>
+> Selected among 12 students out of 60 to visit CERN in person
 
 ---
 
 ## Skills and Languages
 
-**Programming and Tools**<div style="padding-left: 32px; margin-bottom: 10px;">
-C and C++ | Maze solver and chess engine<br>
-Python | NumPy, Pandas, Matplotlib, Dask, SciPy<br>
-Java, MATLAB, ROOT, Mathematica, Bash, CMD, PlatformIO, Node.js<br>
-Windows and UNIX related systems</div>
+**Programming and Tools**
+> C and C++ | Maze solver and chess engine<br>
+> Python | NumPy, Pandas, Matplotlib, Dask, SciPy<br>
+> Java, MATLAB, ROOT, Mathematica, Bash, CMD, PlatformIO, Node.js<br>
+> Windows and UNIX related systems
 
-**Productivity**<div style="padding-left: 32px; margin-bottom: 10px;">
-Microsoft Office, LaTeX, Inkscape, Adobe Illustrator, Origin</div>
+**Productivity**
+> Microsoft Office, LaTeX, Inkscape, Adobe Illustrator, Origin
 
 **Languages**
 
@@ -132,17 +132,17 @@ Microsoft Office, LaTeX, Inkscape, Adobe Illustrator, Origin</div>
 
 ## Hobbies and Interests
 
-<small>2008 to 2020</small><br>
-**Music**<div style="padding-left: 32px; margin-bottom: 10px;">
-Music school MIS Music s.r.o. and Musica Priboriensis<br>
-Artistic education in guitar for 14 years, flute for 2 years, and choir for 1 year<br>
-Lead guitar in a saxophone orchestra<br>
-Active accompaniment of the choir on the guitar for 14 years</div>
+<small>2008 to 2020</small>
+**Music**
+> Music school MIS Music s.r.o. and Musica Priboriensis<br>
+> Artistic education in guitar for 14 years, flute for 2 years, and choir for 1 year<br>
+> Lead guitar in a saxophone orchestra<br>
+> Active accompaniment of the choir on the guitar for 14 years
 
-**Leisure**<div style="padding-left: 32px; margin-bottom: 10px;">
-Chess and PC games<br>
-Badminton and jumping rope</div>
+**Leisure**
+> Chess and PC games<br>
+> Badminton and jumping rope
 
-**Interests**<div style="padding-left: 32px; margin-bottom: 10px;">
-Sci-fi, fantasy, manga, anime<br>
-Cooking and baking</div>
+**Interests**
+> Sci-fi, fantasy, manga, anime<br>
+> Cooking and baking
