@@ -13,6 +13,7 @@ project:
   # To autogenerate a table of contents, run "jupyter book init --write-toc"
   toc:
     - file: intro.md
+    - file: cv.md
 
     - title: This thing is hapening again
       children:
