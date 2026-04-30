@@ -8,9 +8,13 @@ description: A brief summary of this page
 **MSc. Student in Nuclear and Particle Physics**
 
 Pod lipami 340/52a, 130 00 Prague, Czech Republic
+
 +420 776 231 027
+
 cervenkadam@gmail.com
+
 [adamtherobin.github.io/me/](https://adamtherobin.github.io/me/)
+
 [github.com/AdamTheRobin](https://github.com/AdamTheRobin)
 
 ---
