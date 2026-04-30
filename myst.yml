@@ -2,14 +2,14 @@
 version: 1
 project:
   id: 4da9cb15-177c-41f5-8c4e-6a24b4e87eab
-  title: DArk MAtter Gravitational Enhancement
-  description: A collection of files that build up a book
+  title: Adam Červenka
+  description: My personal projects and me
   keywords:
     - jupyter-book
     - something-else
   authors:
     - name: Adam Červenka
-  github: SerGor000/DaMaGEbook
+  github: AdamTheRobin/me
   # To autogenerate a table of contents, run "jupyter book init --write-toc"
   toc:
     - file: intro.md
