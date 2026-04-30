@@ -15,10 +15,11 @@ project:
     - file: intro.md
     - file: cv.md
 
-    - title: This thing is hapening again
+    - title: Coding
       children:
-        - file: physics/hyperbola.md
-
+        - title: CheatSheets
+          children:
+            - file: coding/cheatsheets.ipynb
     
   exports:
     - format: pdf
