@@ -19,7 +19,7 @@ project:
       children:
         - title: CheatSheets
           children:
-            - file: coding/cheatsheets.ipynb
+            - file: coding/sampling.ipynb
     
   exports:
     - format: pdf
