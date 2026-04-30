@@ -1,5 +1,20 @@
 # Introduction
 
+> ### **European robin**
+> ---
+> *Erithacus rubecula*
+>
+> The **European robin** (*Erithacus rubecula*), known simply as the **robin** or **robin redbreast** in the British Isles, is a small insectivorous passerine bird belonging to the Old World flycatcher family **Muscicapidae**.
+>
+> *   **Distribution:** Found across Europe, as far east as Western Siberia and as far south as North Africa.
+> *   **Migration:** Sedentary in the west and south; migratory in the north and east where winters are harsher.
+> *   **Description:** 
+>     *   **Length:** 12.5–14.0 cm (4.9–5.5 in).
+>     *   **Adults:** Identical plumage between sexes; orange-toned red breast and face lined with grey, brown upper-parts, and a whitish belly.
+>     *   **Juveniles:** Freckled brown all over, lacking the red breast.
+>     *   **Immatures:** Resemble adults but feature yellow-brown tips on wing covert feathers.
+
+
 +++ {"part": "abstract"}
 This is my abstract!
 +++
