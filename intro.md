@@ -1,19 +1,30 @@
 # Introduction
 
-> ### **European robin**
-> ---
-> *Erithacus rubecula*
->
-> The **European robin** (*Erithacus rubecula*), known simply as the **robin** or **robin redbreast** in the British Isles, is a small insectivorous passerine bird belonging to the Old World flycatcher family **Muscicapidae**.
->
-> *   **Distribution:** Found across Europe, as far east as Western Siberia and as far south as North Africa.
-> *   **Migration:** Sedentary in the west and south; migratory in the north and east where winters are harsher.
-> *   **Description:** 
->     *   **Length:** 12.5–14.0 cm (4.9–5.5 in).
->     *   **Adults:** Identical plumage between sexes; orange-toned red breast and face lined with grey, brown upper-parts, and a whitish belly.
->     *   **Juveniles:** Freckled brown all over, lacking the red breast.
->     *   **Immatures:** Resemble adults but feature yellow-brown tips on wing covert feathers.
++++ {"part": "European Robin"}
+From Wikipedia, the free encyclopedia
 
+| European robin |
+| :--- |
+| ![European Robin](watermarked_img_874538316673864568.png) |
+| **Conservation status** |
+| ![Status](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png) <br> **Least Concern** (IUCN 3.1) |
+| **Scientific classification** |
+| Kingdom: | Animalia |
+| Phylum: | Chordata |
+| Class: | Aves |
+| Order: | Passeriformes |
+| Family: | Muscicapidae |
+| Genus: | *Erithacus* |
+| Species: | ***E. rubecula*** |
+| **Binomial name** |
+| ***Erithacus rubecula*** <br> (Linnaeus, 1758) |
+| **Subspecies** |
+| 7–10, see text. |
+
+The **European robin** (*Erithacus rubecula*), known simply as the **robin** or **robin redbreast** in the British Isles, is a small insectivorous passerine bird belonging to the Old World flycatcher family Muscicapidae. It is found across Europe, as far east as Western Siberia, and as far south as North Africa. It is sedentary in the west and south of its range, and migratory in the north and east of its range where winters are harsher.
+
+It is 12.5–14.0 cm (4.9–5.5 in) in length. The male and female are identical in plumage, with an orange-toned red breast and face lined with grey, brown upper-parts and a whitish belly. Juveniles are distinct, being freckled brown all over and lacking the red breast. First-winter immatures resemble the adults, except they have more obvious yellow-brown tips to the wing covert feathers, which are inconspicuous or absent in adults.
++++
 
 +++ {"part": "abstract"}
 This is my abstract!
